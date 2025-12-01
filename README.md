@@ -5,7 +5,7 @@ Beat the ATS Algorithm. Get Interviews.
 
 A powerful web application that helps job seekers optimize their resumes to bypass Applicant Tracking Systems (ATS) and AI-driven hiring filters using prompt injection techniques.
 
-[![Live Demo](https://img.shields.io/badge/demo-live-success)](https://llm-injection-on-pdf.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/demo-live-success)](https://www.arot.tech/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Built with React](https://img.shields.io/badge/built%20with-React-61DAFB?logo=react)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/powered%20by-Vite-646CFF?logo=vite)](https://vitejs.dev/)
