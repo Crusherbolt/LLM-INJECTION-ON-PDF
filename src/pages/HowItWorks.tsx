@@ -127,6 +127,12 @@ const HowItWorks = () => {
                   <p className="text-muted-foreground leading-relaxed">
                     Prompt injection is a technique where specially crafted text is inserted into a document or input field to influence the behavior of AI systems processing that content. In the context of resumes, this means embedding instructions that AI screening tools might interpret as directives to evaluate the candidate more favorably.
                   </p>
+                  <p className="text-muted-foreground leading-relaxed mt-3">
+                    Want to learn more? Read our detailed guide:{" "}
+                    <Link to="/blog/prompt-injection-explained" className="text-primary hover:underline font-medium">
+                      Prompt Injection in Resume Screening
+                    </Link>
+                  </p>
                 </div>
               </div>
             </div>
@@ -145,6 +151,16 @@ const HowItWorks = () => {
                 </p>
                 <p>
                   <strong className="text-foreground">4. Ranking & Scoring:</strong> Based on the analysis, candidates are ranked and scored. Only top-scoring resumes proceed to human review.
+                </p>
+                <p className="mt-4">
+                  📚 For a comprehensive understanding, check out:{" "}
+                  <Link to="/blog/understanding-ats-systems" className="text-primary hover:underline font-medium">
+                    Our Complete ATS Guide
+                  </Link>
+                  {" "}and{" "}
+                  <Link to="/blog/ai-resume-screening" className="text-primary hover:underline font-medium">
+                    The Rise of AI Resume Screening
+                  </Link>
                 </p>
               </div>
             </div>

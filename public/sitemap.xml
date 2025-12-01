@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  
+  <!-- Homepage - Highest Priority -->
+  <url>
+    <loc>https://www.arot.tech/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <lastmod>2024-12-01</lastmod>
+  </url>
+  
+  <!-- Main Pages -->
+  <url>
+    <loc>https://www.arot.tech/how-it-works</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2024-12-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.arot.tech/about</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2024-12-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.arot.tech/contact</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <lastmod>2024-12-01</lastmod>
+  </url>
+  
+  <!-- Blog Pages -->
+  <url>
+    <loc>https://www.arot.tech/blog</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2024-12-01</lastmod>
+  </url>
+  
+  <!-- Blog Articles -->
+  <url>
+    <loc>https://www.arot.tech/blog/understanding-ats-systems</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2024-12-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.arot.tech/blog/ai-resume-screening</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2024-11-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.arot.tech/blog/prompt-injection-explained</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2024-11-25</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.arot.tech/blog/ethical-considerations-ats-bypass</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2024-11-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.arot.tech/blog/future-of-ai-hiring</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2024-11-18</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.arot.tech/blog/resume-optimization-strategies</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2024-11-15</lastmod>
+  </url>
+  
+  <!-- Legal Pages -->
+  <url>
+    <loc>https://www.arot.tech/privacy-policy</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <lastmod>2024-12-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.arot.tech/terms-of-service</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <lastmod>2024-12-01</lastmod>
+  </url>
+  
+</urlset>

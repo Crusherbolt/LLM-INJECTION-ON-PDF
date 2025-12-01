@@ -195,8 +195,69 @@ const Index = () => {
           </div>
         </section>
 
-        {/* CTA Section */}
+        {/* Educational Resources Section */}
         <section className="py-20 px-4">
+          <div className="container mx-auto max-w-5xl">
+            <div className="text-center mb-12">
+              <h2 className="text-3xl md:text-4xl font-bold mb-4">
+                Learn More About <span className="gradient-text">ATS & AI Hiring</span>
+              </h2>
+              <p className="text-muted-foreground max-w-2xl mx-auto">
+                Explore our in-depth articles to understand how AI-driven hiring works and how to optimize your job search strategy.
+              </p>
+            </div>
+
+            <div className="grid md:grid-cols-3 gap-6">
+              <Link to="/blog/understanding-ats-systems" className="glass-card rounded-xl p-6 hover:glow-box transition-all duration-300 group">
+                <div className="w-12 h-12 rounded-lg bg-primary/10 flex items-center justify-center mb-4 group-hover:bg-primary/20 transition-colors">
+                  <FileSearch className="w-6 h-6 text-primary" />
+                </div>
+                <h3 className="text-lg font-semibold mb-2 group-hover:text-primary transition-colors">
+                  Understanding ATS Systems
+                </h3>
+                <p className="text-muted-foreground text-sm">
+                  Learn how Applicant Tracking Systems filter resumes and why 75% get rejected before human review.
+                </p>
+              </Link>
+
+              <Link to="/blog/resume-optimization-strategies" className="glass-card rounded-xl p-6 hover:glow-box transition-all duration-300 group">
+                <div className="w-12 h-12 rounded-lg bg-primary/10 flex items-center justify-center mb-4 group-hover:bg-primary/20 transition-colors">
+                  <TrendingUp className="w-6 h-6 text-primary" />
+                </div>
+                <h3 className="text-lg font-semibold mb-2 group-hover:text-primary transition-colors">
+                  Optimization Strategies
+                </h3>
+                <p className="text-muted-foreground text-sm">
+                  Advanced techniques for making your resume stand out in both automated and human screening.
+                </p>
+              </Link>
+
+              <Link to="/blog/ai-resume-screening" className="glass-card rounded-xl p-6 hover:glow-box transition-all duration-300 group">
+                <div className="w-12 h-12 rounded-lg bg-primary/10 flex items-center justify-center mb-4 group-hover:bg-primary/20 transition-colors">
+                  <Bot className="w-6 h-6 text-primary" />
+                </div>
+                <h3 className="text-lg font-semibold mb-2 group-hover:text-primary transition-colors">
+                  AI Resume Screening
+                </h3>
+                <p className="text-muted-foreground text-sm">
+                  Discover how AI-powered screening is transforming the job market in 2025.
+                </p>
+              </Link>
+            </div>
+
+            <div className="text-center mt-8">
+              <Link to="/blog">
+                <Button variant="outline" size="lg">
+                  View All Articles
+                  <ArrowRight className="w-5 h-5" />
+                </Button>
+              </Link>
+            </div>
+          </div>
+        </section>
+
+        {/* CTA Section */}
+        <section className="py-20 px-4 bg-card/30">
           <div className="container mx-auto max-w-4xl text-center">
             <h2 className="text-3xl md:text-4xl font-bold mb-6">
               Ready to <span className="gradient-text">Beat the Algorithm</span>?
