@@ -1,11 +1,10 @@
-<<<<<<< HEAD
-# 🎯 ATS Resume Bypass Tool
+🎯 ATS Resume Bypass Tool USING LLM INJECTION (ON TOP 10 OWASP LIST)
 
-> **Beat the ATS Algorithm. Get Interviews.**
+Beat the ATS Algorithm. Get Interviews.
 
 A powerful web application that helps job seekers optimize their resumes to bypass Applicant Tracking Systems (ATS) and AI-driven hiring filters using prompt injection techniques.
 
-[![Live Demo](https://img.shields.io/badge/demo-live-success)](https://atsbypass.com)
+[![Live Demo](https://img.shields.io/badge/demo-live-success)](https://llm-injection-on-pdf.vercel.app/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Built with React](https://img.shields.io/badge/built%20with-React-61DAFB?logo=react)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/powered%20by-Vite-646CFF?logo=vite)](https://vitejs.dev/)
@@ -528,13 +527,12 @@ This is a standard Next.js app and can be deployed to:
 - **Cloudflare Pages**
 - **Railway**
 - **DigitalOcean App Platform**
->>>>>>> 4b7cc8036a528afddd586c717f2cb5cbf9ffbc51
 
 ---
 
 ## 🤝 Contributing
 
-<<<<<<< HEAD
+
 Contributions are welcome! Here's how you can help:
 
 ### Ways to Contribute
@@ -576,7 +574,6 @@ Contributions are welcome! To contribute:
 ---
 
 ## 📜 License
->>>>>>> 4b7cc8036a528afddd586c717f2cb5cbf9ffbc51
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
@@ -621,25 +618,20 @@ If you encounter issues or have questions:
 
 - 🐛 [Report a bug](https://github.com/Crusherbolt/LLM-INJECTION-ON-PDF/issues)
 - 💡 [Request a feature](https://github.com/Crusherbolt/LLM-INJECTION-ON-PDF/issues)
-- 📧 Contact: your.email@example.com
->>>>>>> 4b7cc8036a528afddd586c717f2cb5cbf9ffbc51
 
----
+
 
 <div align="center">
 
-<<<<<<< HEAD
+
 ### ⭐ Star this repo if you found it helpful!
 
 **Made with ❤️ for job seekers fighting against AI bias**
 
-[Live Demo](https://atsbypass.com) • [Documentation](https://atsbypass.com/how-it-works) • [Blog](https://atsbypass.com/blog)
-=======
 **⭐ Star this repo if it helped you bypass ATS filters! ⭐**
 
 Made with ❤️ by developers, for job seekers
 
-[Website](https://your-domain.com) • [Documentation](https://your-domain.com/how-it-works) • [Report Bug](https://github.com/Crusherbolt/LLM-INJECTION-ON-PDF/issues)
->>>>>>> 4b7cc8036a528afddd586c717f2cb5cbf9ffbc51
+[Website](https://llm-injection-on-pdf.vercel.app/) • [Documentation](https://llm-injection-on-pdf.vercel.app/how-it-works) • [Report Bug](https://github.com/Crusherbolt/LLM-INJECTION-ON-PDF/issues)
 
 </div>
