@@ -48,7 +48,7 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email Us",
-      details: "support@atsbypass.com",
+      details: "vidhan365@gmail.com",
       description: "We typically respond within 24 hours"
     },
     {
@@ -62,10 +62,10 @@ const Contact = () => {
   return (
     <>
       <Helmet>
-        <title>Contact Us - Get Help with ATS Resume Optimization | ATSBypass</title>
-        <meta name="description" content="Have questions about our ATS bypass tool? Contact the ATSBypass team for support, feedback, or collaboration inquiries. We're here to help job seekers succeed." />
-        <meta name="keywords" content="contact ATSBypass, resume help, ATS support, job search assistance" />
-        <link rel="canonical" href="https://atsbypass.com/contact" />
+        <title>Contact Us - Get Help with ATS Resume Optimization | AROT</title>
+        <meta name="description" content="Have questions about our ATS bypass tool? Contact the AROT team for support, feedback, or collaboration inquiries. We're here to help job seekers succeed." />
+        <meta name="keywords" content="contact AROT, resume help, ATS support, job search assistance" />
+        <link rel="canonical" href="https://llm-injection-on-pdf.vercel.app/contact" />
       </Helmet>
 
       <Layout>

@@ -59,10 +59,10 @@ const Blog = () => {
   return (
     <>
       <Helmet>
-        <title>Blog - ATS Bypass Guides, AI Hiring Insights & Resume Tips | ATSBypass</title>
+        <title>Blog - ATS Bypass Guides, AI Hiring Insights & Resume Tips | AROT</title>
         <meta name="description" content="Expert articles on ATS systems, AI resume screening, prompt injection techniques, and career optimization strategies. Stay informed about AI-driven hiring." />
         <meta name="keywords" content="ATS blog, resume optimization tips, AI hiring articles, career advice, prompt injection guide" />
-        <link rel="canonical" href="https://atsbypass.com/blog" />
+        <link rel="canonical" href="https://llm-injection-on-pdf.vercel.app/blog" />
       </Helmet>
 
       <Layout>
@@ -73,7 +73,7 @@ const Blog = () => {
               KNOWLEDGE BASE
             </span>
             <h1 className="text-4xl md:text-5xl font-bold mb-6">
-              The ATSBypass <span className="gradient-text">Blog</span>
+              The AROT <span className="gradient-text">Blog</span>
             </h1>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
               In-depth articles about AI-driven hiring, ATS systems, prompt injection techniques, and strategies for navigating the modern job market.

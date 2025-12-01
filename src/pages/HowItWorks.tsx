@@ -52,10 +52,10 @@ const HowItWorks = () => {
   return (
     <>
       <Helmet>
-        <title>How ATS Bypass Works - Complete Guide to Resume Optimization | ATSBypass</title>
+        <title>How ATS Bypass Works - Complete Guide to Resume Optimization | AROT</title>
         <meta name="description" content="Learn how our ATS bypass tool works. Step-by-step guide to optimizing your resume for AI screening systems with prompt injection techniques." />
         <meta name="keywords" content="how ATS bypass works, resume optimization guide, prompt injection tutorial, AI screening bypass" />
-        <link rel="canonical" href="https://atsbypass.com/how-it-works" />
+        <link rel="canonical" href="https://llm-injection-on-pdf.vercel.app/how-it-works" />
       </Helmet>
 
       <Layout>

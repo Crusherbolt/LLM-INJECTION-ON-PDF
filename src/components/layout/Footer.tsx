@@ -35,8 +35,8 @@ const Footer = () => {
                 <Zap className="w-4 h-4 text-primary absolute -bottom-1 -right-1" />
               </div>
               <span className="font-mono font-bold text-lg">
-                <span className="text-primary">ATS</span>
-                <span className="text-foreground">Bypass</span>
+                <span className="text-primary">AR</span>
+                <span className="text-foreground">OT</span>
               </span>
             </Link>
             <p className="text-muted-foreground text-sm leading-relaxed mb-4">
@@ -110,7 +110,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-border mt-10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-muted-foreground text-sm">
-            © {currentYear} ATSBypass. All rights reserved.
+            © {currentYear} AROT. All rights reserved.
           </p>
           <p className="text-muted-foreground text-xs">
             Built for job seekers navigating the AI-driven hiring landscape.

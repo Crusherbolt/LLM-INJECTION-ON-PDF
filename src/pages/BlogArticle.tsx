@@ -1191,10 +1191,10 @@ const BlogArticle = () => {
   return (
     <>
       <Helmet>
-        <title>{article.title} | ATSBypass Blog</title>
+        <title>{article.title} | AROT Blog</title>
         <meta name="description" content={article.description} />
         <meta name="keywords" content={`${article.category}, ATS bypass, resume optimization, AI hiring`} />
-        <link rel="canonical" href={`https://atsbypass.com/blog/${slug}`} />
+        <link rel="canonical" href={`https://llm-injection-on-pdf.vercel.app/blog${slug}`} />
         <meta property="og:title" content={article.title} />
         <meta property="og:description" content={article.description} />
         <meta property="og:type" content="article" />

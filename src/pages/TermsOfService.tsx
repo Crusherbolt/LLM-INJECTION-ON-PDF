@@ -5,9 +5,9 @@ const TermsOfService = () => {
   return (
     <>
       <Helmet>
-        <title>Terms of Service - Usage Guidelines | ATSBypass</title>
-        <meta name="description" content="Read the ATSBypass terms of service. Understand our usage guidelines, disclaimers, and your responsibilities when using our ATS bypass tool." />
-        <link rel="canonical" href="https://atsbypass.com/terms-of-service" />
+        <title>Terms of Service - Usage Guidelines | AROT</title>
+        <meta name="description" content="Read the AROT terms of service. Understand our usage guidelines, disclaimers, and your responsibilities when using our ATS bypass tool." />
+        <link rel="canonical" href="https://llm-injection-on-pdf.vercel.app/terms-of-service" />
       </Helmet>
 
       <Layout>
@@ -26,7 +26,7 @@ const TermsOfService = () => {
               <section>
                 <h2 className="text-2xl font-semibold mb-4">Agreement to Terms</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  By accessing or using ATSBypass ("the Service"), you agree to be bound by these Terms of Service and all applicable laws and regulations. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.
+                  By accessing or using AROT ("the Service"), you agree to be bound by these Terms of Service and all applicable laws and regulations. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.
                 </p>
               </section>
 
@@ -34,7 +34,7 @@ const TermsOfService = () => {
                 <h2 className="text-2xl font-semibold mb-4">Description of Service</h2>
                 <div className="space-y-4 text-muted-foreground leading-relaxed">
                   <p>
-                    ATSBypass provides an educational tool that demonstrates how prompt injection techniques can be applied to PDF documents. The tool is designed to:
+                    AROT provides an educational tool that demonstrates how prompt injection techniques can be applied to PDF documents. The tool is designed to:
                   </p>
                   <ul className="list-disc list-inside space-y-2 ml-4">
                     <li>Educate users about AI-driven hiring systems</li>
@@ -51,7 +51,7 @@ const TermsOfService = () => {
                     IMPORTANT: This tool is provided for educational and research purposes only.
                   </p>
                   <p>
-                    The ATSBypass tool is designed to demonstrate and educate users about the existence of vulnerabilities in AI-driven hiring systems. We do not guarantee that the techniques demonstrated will be effective against any particular ATS system, and effectiveness may vary widely.
+                    The AROT tool is designed to demonstrate and educate users about the existence of vulnerabilities in AI-driven hiring systems. We do not guarantee that the techniques demonstrated will be effective against any particular ATS system, and effectiveness may vary widely.
                   </p>
                   <p>
                     Users are solely responsible for how they use the information and tools provided. We do not endorse or encourage any unethical use of this tool, including but not limited to misrepresenting qualifications or deceiving employers.
@@ -89,7 +89,7 @@ const TermsOfService = () => {
               <section>
                 <h2 className="text-2xl font-semibold mb-4">Intellectual Property</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  The Service and its original content (excluding content provided by users), features, and functionality are and will remain the exclusive property of ATSBypass and its licensors. The Service is protected by copyright, trademark, and other laws. Our trademarks may not be used in connection with any product or service without prior written consent.
+                  The Service and its original content (excluding content provided by users), features, and functionality are and will remain the exclusive property of AROT and its licensors. The Service is protected by copyright, trademark, and other laws. Our trademarks may not be used in connection with any product or service without prior written consent.
                 </p>
               </section>
 
@@ -109,7 +109,7 @@ const TermsOfService = () => {
                 <h2 className="text-2xl font-semibold mb-4">Limitation of Liability</h2>
                 <div className="space-y-4 text-muted-foreground leading-relaxed">
                   <p>
-                    In no event shall ATSBypass, its directors, employees, partners, agents, suppliers, or affiliates be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation:
+                    In no event shall AROT, its directors, employees, partners, agents, suppliers, or affiliates be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation:
                   </p>
                   <ul className="list-disc list-inside space-y-2 ml-4">
                     <li>Loss of profits, data, use, goodwill, or other intangible losses</li>
@@ -124,14 +124,14 @@ const TermsOfService = () => {
               <section>
                 <h2 className="text-2xl font-semibold mb-4">Indemnification</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  You agree to defend, indemnify, and hold harmless ATSBypass and its licensees, licensors, employees, contractors, agents, officers, and directors from and against any and all claims, damages, obligations, losses, liabilities, costs, or debt and expenses arising from your use of the Service, your violation of these Terms, or your violation of any third-party rights.
+                  You agree to defend, indemnify, and hold harmless AROT and its licensees, licensors, employees, contractors, agents, officers, and directors from and against any and all claims, damages, obligations, losses, liabilities, costs, or debt and expenses arising from your use of the Service, your violation of these Terms, or your violation of any third-party rights.
                 </p>
               </section>
 
               <section>
                 <h2 className="text-2xl font-semibold mb-4">Third-Party Links</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  Our Service may contain links to third-party websites or services that are not owned or controlled by ATSBypass. We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third-party websites or services. You acknowledge and agree that ATSBypass shall not be responsible or liable for any damage or loss caused by use of any such content, goods, or services.
+                  Our Service may contain links to third-party websites or services that are not owned or controlled by AROT. We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third-party websites or services. You acknowledge and agree that AROT shall not be responsible or liable for any damage or loss caused by use of any such content, goods, or services.
                 </p>
               </section>
 
@@ -162,7 +162,7 @@ const TermsOfService = () => {
                   If you have any questions about these Terms, please contact us at:
                 </p>
                 <ul className="mt-4 space-y-2 text-muted-foreground">
-                  <li>Email: legal@atsbypass.com</li>
+                  <li>Email: vidhan365@gmail.com</li>
                   <li>Website: <a href="/contact" className="text-primary hover:underline">Contact Form</a></li>
                 </ul>
               </section>

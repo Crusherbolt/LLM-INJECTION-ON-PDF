@@ -5,9 +5,9 @@ const PrivacyPolicy = () => {
   return (
     <>
       <Helmet>
-        <title>Privacy Policy - Your Data Security Matters | ATSBypass</title>
-        <meta name="description" content="Read our privacy policy to understand how ATSBypass protects your data. We prioritize your privacy with local processing and zero data collection." />
-        <link rel="canonical" href="https://atsbypass.com/privacy-policy" />
+        <title>Privacy Policy - Your Data Security Matters | AROT</title>
+        <meta name="description" content="Read our privacy policy to understand how AROT protects your data. We prioritize your privacy with local processing and zero data collection." />
+        <link rel="canonical" href="https://llm-injection-on-pdf.vercel.app/privacy-policy" />
       </Helmet>
 
       <Layout>
@@ -26,7 +26,7 @@ const PrivacyPolicy = () => {
               <section>
                 <h2 className="text-2xl font-semibold mb-4">Introduction</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  At ATSBypass ("we," "our," or "us"), we are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website and use our ATS resume optimization tool. Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the site.
+                  At AROT ("we," "our," or "us"), we are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website and use our ATS resume optimization tool. Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the site.
                 </p>
               </section>
 
@@ -154,7 +154,7 @@ const PrivacyPolicy = () => {
                   If you have any questions about this Privacy Policy, please contact us at:
                 </p>
                 <ul className="mt-4 space-y-2 text-muted-foreground">
-                  <li>Email: privacy@atsbypass.com</li>
+                  <li>Email: vidhanbolt@gmail.com</li>
                   <li>Website: <a href="/contact" className="text-primary hover:underline">Contact Form</a></li>
                 </ul>
               </section>

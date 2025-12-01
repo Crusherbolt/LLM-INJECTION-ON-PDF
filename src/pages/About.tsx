@@ -51,10 +51,10 @@ const About = () => {
   return (
     <>
       <Helmet>
-        <title>About ATSBypass - Our Mission to Fair Hiring | ATSBypass</title>
-        <meta name="description" content="Learn about ATSBypass and our mission to help job seekers navigate AI-driven hiring systems. We believe in transparency, education, and fair opportunities for all." />
-        <meta name="keywords" content="about ATSBypass, fair hiring, AI transparency, job search help, resume optimization mission" />
-        <link rel="canonical" href="https://atsbypass.com/about" />
+        <title>About AROT - Our Mission to Fair Hiring | AROT</title>
+        <meta name="description" content="Learn about AROT and our mission to help job seekers navigate AI-driven hiring systems. We believe in transparency, education, and fair opportunities for all." />
+        <meta name="keywords" content="about AROT, fair hiring, AI transparency, job search help, resume optimization mission" />
+        <link rel="canonical" href="https://llm-injection-on-pdf.vercel.app/about" />
       </Helmet>
 
       <Layout>
@@ -80,7 +80,7 @@ const About = () => {
               <h2 className="text-2xl md:text-3xl font-bold mb-6">Our Story</h2>
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
-                  ATSBypass was born from frustration. Like millions of job seekers, our founders experienced the modern hiring gauntlet: submitting countless applications into what felt like a black hole, never hearing back despite being qualified for positions.
+                  AROT was born from frustration. Like millions of job seekers, our founders experienced the modern hiring gauntlet: submitting countless applications into what felt like a black hole, never hearing back despite being qualified for positions.
                 </p>
                 <p>
                   The culprit? Applicant Tracking Systems (ATS) and AI screening tools that automatically reject up to 75% of resumes before a human ever sees them. These systems, designed to handle the volume of modern job applications, have created a new barrier to employment that disproportionately affects qualified candidates who don't know how to "speak" to the algorithm.

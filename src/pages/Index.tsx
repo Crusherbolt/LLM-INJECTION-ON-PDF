@@ -59,10 +59,10 @@ const Index = () => {
   return (
     <>
       <Helmet>
-        <title>ATS Resume Bypass Tool - Beat AI Hiring Systems | ATSBypass</title>
+        <title>ATS Resume Bypass Tool - Beat AI Hiring Systems | AROT</title>
         <meta name="description" content="Free ATS resume bypass tool that helps job seekers optimize resumes to pass automated screening systems. Inject AI prompts to stand out in AI-driven hiring." />
         <meta name="keywords" content="ATS bypass, resume optimizer, AI hiring, applicant tracking system, job search, resume screening, prompt injection" />
-        <link rel="canonical" href="https://atsbypass.com" />
+        <link rel="canonical" href="https://llm-injection-on-pdf.vercel.app" />
         <meta property="og:title" content="ATS Resume Bypass Tool - Beat AI Hiring Systems" />
         <meta property="og:description" content="Free tool to optimize your resume for ATS systems and AI-driven hiring." />
         <meta property="og:type" content="website" />
@@ -165,7 +165,7 @@ const Index = () => {
               <div className="grid md:grid-cols-2 gap-12 items-center">
                 <div>
                   <h2 className="text-3xl md:text-4xl font-bold mb-6">
-                    Why Choose <span className="gradient-text">ATSBypass</span>?
+                    Why Choose <span className="gradient-text">AROT</span>?
                   </h2>
                   <ul className="space-y-4">
                     {benefits.map((benefit, index) => (

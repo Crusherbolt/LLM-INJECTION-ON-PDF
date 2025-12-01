@@ -28,8 +28,8 @@ const Header = () => {
               <Zap className="w-4 h-4 text-primary absolute -bottom-1 -right-1 animate-pulse" />
             </div>
             <span className="font-mono font-bold text-lg tracking-tight">
-              <span className="text-primary">ATS</span>
-              <span className="text-foreground">Bypass</span>
+              <span className="text-primary">AR</span>
+              <span className="text-foreground">OT</span>
             </span>
           </Link>
 

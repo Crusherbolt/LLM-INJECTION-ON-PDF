@@ -1,4 +1,5 @@
-🎯 ATS Resume Bypass Tool USING LLM INJECTION (ON TOP 10 OWASP LIST)
+🎯 ATS Resume Bypass Tool(AROT) 
+BUILT USING LLM INJECTION CONCEPT (ON TOP 10 OWASP LIST)
 
 Beat the ATS Algorithm. Get Interviews.
 
