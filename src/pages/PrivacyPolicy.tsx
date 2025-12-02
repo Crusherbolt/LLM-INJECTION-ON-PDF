@@ -109,6 +109,26 @@ const PrivacyPolicy = () => {
               </section>
 
               <section>
+                <h2 className="text-2xl font-semibold mb-4">Advertising Partners Privacy Policies</h2>
+                <div className="space-y-4 text-muted-foreground leading-relaxed">
+                  <p>
+                    You may consult this list to find the Privacy Policy for each of the advertising partners of AROT.
+                  </p>
+                  <p>
+                    Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on AROT, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
+                  </p>
+                  <p>
+                    Note that AROT has no access to or control over these cookies that are used by third-party advertisers.
+                  </p>
+                  
+                  {/* Ezoic Privacy Policy Embed */}
+                  <div className="mt-6 p-4 bg-card/50 rounded-xl border border-border">
+                    <span id="ezoic-privacy-policy-embed"></span>
+                  </div>
+                </div>
+              </section>
+
+              <section>
                 <h2 className="text-2xl font-semibold mb-4">Data Security</h2>
                 <p className="text-muted-foreground leading-relaxed">
                   We implement appropriate technical and organizational security measures to protect your personal information. However, please note that no method of transmission over the Internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
